@@ -1,9 +1,9 @@
 # Import the Python SDK
-pip install apikey
-pip install google-search-results
-pip install yahooquery
-pip install google-generativeai
-pip install yfinance
+!pip install apikey
+!pip install google-search-results
+!pip install yahooquery
+!pip install google-generativeai
+!pip install yfinance
 import google.generativeai as genai
 import os
 import requests

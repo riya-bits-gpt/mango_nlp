@@ -1,0 +1,4 @@
+apikey
+google-search-results
+yahooquery
+google-generativeai
